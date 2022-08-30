@@ -36,7 +36,7 @@ yarn-error.log*
 /cache
 
 # vscode
-.vscode/*
+/.vscode
 
 # misc
 .DS_Store
