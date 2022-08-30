@@ -1,0 +1,22 @@
+{
+  "contributors": [
+    {
+      "imageURL": "https://picsum.photos/200",
+      "contribtorName": "Lorem ipsum",
+      "contribtorSubDesc": "Lorem ipsum nod fulirem",
+      "url": "www.google.com",
+      "role": "Frontend Dev"
+    }
+  ],
+  "nft": [
+    {
+      "uid": "adsfdafbadkjfb",
+      "nftName": "Swee Sen NFT name #0000",
+      "creatorName": "Swee Sen",
+      "creatorAvatarURL": "https://lh3.googleusercontent.com/fmy3rZQgswpkd5TV3QWl66JG3SvIPGhWDtHr3dKKi15EAUb96k-lKFsi0amKXyJv9Lh7xnDBHG0Btq--bIorfDfL0dJ39RVQYofU=s100",
+      "imageURL": "https://lh3.googleusercontent.com/_BsioYwJrnwPUPTQCJPmYc4vrFm-88XCyK-dqrm0wBmzKeNReoWWpQzTw4nlk1W-KHWLRCR38DR8mqhz_vX8fM7L83kLaSm_d4sy_w=h200",
+      "description": "Explore the NEoTokyo Outer Identities Collections",
+      "policyID": "asdasdasdasdasd"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .formTitles {
+        @apply text-center font-bold
+    }
+  }
