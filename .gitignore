@@ -32,8 +32,11 @@ yarn-error.log*
 # production
 /dist
 /tmp
-artifacts/
-cache/
+/artifacts
+/cache
+
+# vscode
+.vscode/*
 
 # misc
 .DS_Store
