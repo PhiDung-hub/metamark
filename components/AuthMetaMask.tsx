@@ -87,7 +87,7 @@ const ValidateMetaMask = () => {
       >
         <Image src="/MetaMarket.ico" alt="MetaMarket logo" width={250} height={270} />
         <Typography variant="h4" component="div" gutterBottom>
-          Plase add MetaMask to your browser first!
+          Please add MetaMask to your browser first!
         </Typography>
         <form method="get" action="https://www.youtube.com/watch?v=OJqaZRpRqXM">
           <button type="submit">Add MetaMask</button>
@@ -131,7 +131,7 @@ const ValidateAccount = () => {
       >
         <Image src="/MetaMarket.ico" alt="MetaMarket logo" width={250} height={270} />
         <Typography variant="h4" component="div" gutterBottom>
-          Plase connect to the valid MetaMask account!
+          Please connect to the valid MetaMask account!
         </Typography>
         <button type="button" onClick={() => router.reload()}>Refresh Page</button>
       </div>
